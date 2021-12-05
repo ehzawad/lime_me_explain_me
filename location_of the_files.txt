@@ -1,0 +1,2 @@
+lime_text = C:\Users\gsl\PycharmProjects\pythonProject\venv\Lib\site-packages\lime\lime_text.py
+sk_learn_text = C:\Users\gsl\PycharmProjects\pythonProject\venv\Lib\site-packages\sklearn\feature_extraction\text.py
